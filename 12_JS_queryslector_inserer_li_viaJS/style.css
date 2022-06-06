@@ -1,0 +1,27 @@
+.error {
+    color:red;
+}
+
+.success{
+    color:green;
+}
+
+.rouge{
+    color:red;
+}
+
+.jaune {
+    color:yellow;
+}
+
+.bleu{
+    color: blue;
+}
+
+.center{
+    text-align:center;
+}
+
+.right{
+    text-align:right;
+}
